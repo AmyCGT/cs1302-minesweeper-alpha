@@ -1,0 +1,46 @@
+cs1302-minesweeper-alpha:
+total 16
+drwxr-xr-x. 3 myid   28 Feb 14 17:00 bin
+-rw-r--r--. 1 myid  235 Feb 13 13:13 gameover.txt
+-rw-r--r--. 1 myid 1777 Feb 13 13:14 gamewon.txt
+-rw-r--r--. 1 myid    0 Feb 14 23:54 rec25283
+drwxr-xr-x. 3 myid   28 Feb 14 16:48 src
+-rw-r--r--. 1 myid   23 Feb 14 23:51 SUBMISSION.md
+drwxr-xr-x. 2 myid  135 Feb 14 23:27 tests
+-rw-r--r--. 1 myid  303 Feb 13 13:06 welcome.txt
+
+cs1302-minesweeper-alpha/bin:
+total 0
+drwxr-xr-x. 3 myid 26 Feb 14 17:00 cs1302
+
+cs1302-minesweeper-alpha/bin/cs1302:
+total 0
+drwxr-xr-x. 2 myid 78 Feb 14 17:30 game
+
+cs1302-minesweeper-alpha/bin/cs1302/game:
+total 12
+-rw-r--r--. 1 myid  984 Feb 14 23:46 MinesweeperDriver.class
+-rw-r--r--. 1 myid 7909 Feb 14 23:47 MinesweeperGame.class
+
+cs1302-minesweeper-alpha/src:
+total 0
+drwxr-xr-x. 3 myid 26 Feb 13 11:27 cs1302
+
+cs1302-minesweeper-alpha/src/cs1302:
+total 0
+drwxr-xr-x. 2 myid 128 Feb 14 23:47 game
+
+cs1302-minesweeper-alpha/src/cs1302/game:
+total 28
+-rw-r--r--. 1 myid  1161 Feb 14 19:43 #MinesweeperDriver.java#
+-rw-r--r--. 1 myid  1161 Feb 14 19:42 MinesweeperDriver.java
+-rw-r--r--. 1 myid 17868 Feb 14 23:47 MinesweeperGame.java
+
+cs1302-minesweeper-alpha/tests:
+total 20
+-rw-r--r--. 1 myid 24 Feb 13 15:47 tc01.seed.txt
+-rw-r--r--. 1 myid 30 Feb 14 20:12 tc02.seed.txt
+-rw-r--r--. 1 myid 22 Feb 14 22:58 tc03.seed.txt
+-rw-r--r--. 1 myid 30 Feb 14 23:07 tc04.seed.txt
+-rw-r--r--. 1 myid 24 Feb 14 23:27 tc06.seed.txt
+/home/myid/ac46912/cs1302-minesweeper-alpha:/home/myid/csci-1302
